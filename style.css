@@ -273,11 +273,11 @@ body::-webkit-scrollbar-track {
 }
 .progress__wordpress span {
     background-color: #ff4900;
-    width: 100%;
+    width: 75%;
 }
 .progress__html span {
     background-color: #ff7004;
-    width: 75%;
+    width: 100%;
 }
 .progress__angular span {
     background-color: #ff9809;
